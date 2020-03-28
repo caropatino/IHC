@@ -1,0 +1,18 @@
+
+.listado{
+	color: #fff;
+	font-family: 'Graduate', cursive;
+	text-align: center;
+}
+
+.hola{
+	background:#363636;
+}
+
+.evento:hover{
+	background: #EFF3EF;
+}
+
+.evento p {
+	color:#000;
+}
